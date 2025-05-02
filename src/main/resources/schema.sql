@@ -1,0 +1,6 @@
+CREATE TABLE items (
+    id INT GENERATED ALWAYS AS IDENTITY,
+    name VARCHAR(255) NOT NULL,
+    description VARCHAR(255),
+    PRIMARY KEY (id)
+);
