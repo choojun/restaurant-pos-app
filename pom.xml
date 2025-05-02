@@ -72,7 +72,7 @@
     </dependencies>
 
     <build>
-        <finalName>spring-crud-derby-app</finalName>
+        <finalName>restaurant-pos-app</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
